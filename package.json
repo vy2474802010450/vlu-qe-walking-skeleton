@@ -1,0 +1,12 @@
+{
+  "name": "vlu-qe-walking-skeleton",
+  "version": "1.0.0",
+  "description": "LAB 01 - Walking Skeleton Automation with GenAI and GitHub Actions",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
